@@ -53,10 +53,9 @@ New remote employees using personal computers rather than employer-provided equi
 ProtectYourDevice/
 ├── assets/
 │   └── shield-favicon.svg
-├── .nojekyll
+├── README.md
 ├── index.html
-├── styles.css
-└── README.md
+└── styles.css
 ```
 
 ## Developed By
